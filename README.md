@@ -19,7 +19,7 @@ No description provided.
 
 ## 🧠 Tech Stack Used
 
-- **Detected Technologies:** Dockerfile, GCP, Java
+- **Detected Technologies:** Java (Maven/Gradle), Spring Boot, Docker, Kubernetes / K8s, GCP
 - **GitHub Topics:** None
 
 ---
